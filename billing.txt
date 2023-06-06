@@ -1,0 +1,2 @@
+ name = milk price = 2.0 quantity = 2 total = 4.0 
+ name = ll price = 44.0 quantity = 44 total = 1936.0 

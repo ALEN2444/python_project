@@ -1,0 +1,2 @@
+ name = milk price = 45.0 quantity = 5 total = 225.0 
+ name = meat price = 455.0 quantity = 2 total = 910.0 
